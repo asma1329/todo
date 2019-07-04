@@ -1,0 +1,81 @@
+.head
+{
+    background-color: rgb(255, 123, 0) ;
+    weight:100%;
+    height:180px;
+    
+}
+.logo
+{
+   float: left ;
+   width: 300px;
+   height:200px;
+   
+}
+
+.cnx
+{
+  background-color: #4C4C4C; 
+  float: right;
+  margin: 70px;
+  width:200px;
+  height:70px;
+  color:white;
+  font-size: 20px;
+  border-radius: 20px;
+}
+.Ins
+{
+   background-color:#4C4C4C;
+   float: right ; 
+   margin: 70px;
+   width:200px;
+   height:70px;
+   color:white;
+   font-size: 20px;
+   border-radius: 20px;
+   
+}
+.page
+{
+    background-color: rgb(199, 195, 195);
+    width:100%;
+    height:1000px;
+}
+.paragraphe
+{   
+    font-family: 'Times New Roman';
+    color:black;
+    float:left;
+    margin: 50px 50px 50px 30px;
+    font-family: 'Times New Roman';
+    font-size:45px;
+    width:500px;
+    height:600px;
+    font-weight: bold;
+
+}
+.par
+{
+    font-family: 'Times New Roman';
+    color:black;
+    float:left;
+    margin: 50px 50px 50px 20px;
+    font-family: 'Times New Roman';
+    font-size:30px;
+    width:450px;
+    height:500px;
+    font-weight: normal;  
+}
+
+.image
+{
+    float:right;
+    margin: 0px 50px 50px 50px;
+    width:450px;
+    height:500px;
+    
+    
+}
+
+

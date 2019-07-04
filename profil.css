@@ -1,0 +1,55 @@
+h2
+{
+    color: rgba(0, 153, 255, 0.849);
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: left;
+
+}
+
+p
+{    
+    color: #000000;
+    font-size:20px;
+    font-weight:normal;
+
+}
+
+.page
+{    
+     background-color: #ffffff;
+     opacity: 1;
+     border: 4px outset rgb(76, 0, 255);
+         
+}
+
+a
+{
+    color:red;
+    text-decoration:none;
+    font-size: 20px;
+}
+
+a:hover
+{
+
+    color:green;  
+    text-decoration:underline;
+
+}
+
+a:visited
+{ 
+    color:grey;
+}
+
+.flotte
+{
+    float:right;
+ }
+
+.centre
+{
+    text-align:center;
+}
